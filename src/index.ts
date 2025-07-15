@@ -1,2 +1,2 @@
 import "./styles/main.scss";
-console.log("Hello cutie!");
+console.log("TS і Scss, підключено та працює!");
